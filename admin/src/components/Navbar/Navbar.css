@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 8px 4%;
+}
+.logo {
+  width: 100px;   /* adjust this value */
+  height: auto;   /* maintain aspect ratio */
+}
+
+.navbar.logo{
+    width: (10%,80px);
+
+}
